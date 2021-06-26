@@ -40,6 +40,13 @@ header {
    overflow: hidden;
 }
 
+.skillItem {
+	border-style: solid;
+	border-radius: 10px;
+	border-width: medium;
+	border-color: #ABD1F2;
+}
+
 /* vertically center banner section */
 header:before {
    content: '';
